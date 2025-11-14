@@ -1,0 +1,11 @@
+systemd
+systemd-sysv
+bash
+coreutils
+dpkg
+apt
+ca-certificates
+linux-image-amd64
+initramfs-tools
+locales
+tzdata
